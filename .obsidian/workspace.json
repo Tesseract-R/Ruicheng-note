@@ -11,14 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "白日梦想家计划.md",
-                "mode": "source",
-                "source": false
+                "aFile": "JYMM/道歉信.md",
+                "bFile": "JYMM/道歉信.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "白日梦想家计划"
+              "icon": "diff",
+              "title": "Diff: 道歉信"
             }
           }
         ]
@@ -200,8 +201,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "JYMM/承诺.md",
     "白日梦想家计划.md",
+    "JYMM/承诺.md",
     "JYMM",
     "护肤/护肤.md",
     "JYMM/道歉信.md",
